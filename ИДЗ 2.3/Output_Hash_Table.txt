@@ -1,0 +1,20 @@
+D8492 Danuk Kirill Konstantinovich Math 2473 2 
+EMPTY
+R3467 Litvintseva Marina Mihailovna Business 3462 6 
+I2229 Oslonov Kirill Sergeevich Economic 7543 3 
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+A5732 Korikov Evgenii Vladimirovich Business 7532 7 
+EMPTY
+EMPTY
+EMPTY
+U9989 Korikov Mihail Evgenevich IT 5432 1 
+M3285 Sergeeva Victoria Andreevna Languages 6666 5 
+EMPTY
+C7492 Kozlov Mark Andreevich Art 2052 8 
+Y6549 Chekman Grigorij Arkadievich History 4953 4 
+EMPTY
+EMPTY
+EMPTY
