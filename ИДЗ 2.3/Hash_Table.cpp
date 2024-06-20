@@ -8,6 +8,7 @@ void Call_Hash_Table() {
     HT.read_file("Input_Hash_Table.txt");
     HT.write_file("Output_Hash_Table.txt");
     HT.print();
+    cout << HT.delete_node("Kozlov Mark Andreevich", 2052);
 }
 
 int main() {

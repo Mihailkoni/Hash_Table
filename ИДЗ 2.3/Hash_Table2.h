@@ -83,6 +83,9 @@ private:
     void Collisions(Node node, int& index, int& i) { // разрешение коллизий
         int old_index = index;
         while (i < max_table_size) {
+            if ((table[index].fio.fio == node.fio.fio && table[index].app.number_app == node.app.number_app)) {
+                return;
+            }
             if (table[index].status != ONE || (table[index].fio.fio == node.fio.fio && table[index].app.number_app == node.app.number_app)) {
                 table[index] = node;
                 table[index].status = ONE;
